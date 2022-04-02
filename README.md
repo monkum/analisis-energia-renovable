@@ -1,4 +1,4 @@
-# Análisis de generación de energías renovables no convencionales en Colombia
+# Análisis de generación de energías renovables no convencionales en Peru y Colombia
 
 Analizar la implementación y desarrollo de proyectos de generación de energía renovable no convencional en Perú y Colombia, calculando los costos económicos y sociales que ayuden a mitigar el impacto cambio climático.
 
